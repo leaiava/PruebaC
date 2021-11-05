@@ -1,0 +1,3 @@
+Esto es una prueba de creacion de archivo desde VSCode
+
+Nada mágico
