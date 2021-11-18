@@ -2,5 +2,6 @@ Agrego archivo de texto nuevo
 
 
 
-Agrego cambios desde otro branch
+Agrego cambios desde otro branch.
+Hago un refactor
 
